@@ -40,11 +40,11 @@
 
   <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=VArsenyan&show_icons=true&hide_border=true&hide=stars" />
 <br />
-  <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VArsenyan&layout=compact&hide_border=true" />
+  <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VArsenyan&layout=compact&hide_border=true&hide=css,html,scss" />
 
 
 
-[website]: https://cv.axio.pw
+[website]: https://axio.pw
 [linkedin]: https://linkedin.com/in/vaarsenyan
 [facebook]: https://www.facebook.com/arsenyanv
 [instagram]: https://instagram.com/v_arsenyan
