@@ -44,7 +44,7 @@
 
 
 
-[website]: https://axio.pw
+[website]: https://vlad.am
 [linkedin]: https://linkedin.com/in/vaarsenyan
 [facebook]: https://www.facebook.com/arsenyanv
 [instagram]: https://instagram.com/v_arsenyan
